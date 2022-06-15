@@ -1,0 +1,5 @@
+nbformat
+numpy
+matplotlib
+seaborn
+statsmodels
